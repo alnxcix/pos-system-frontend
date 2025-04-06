@@ -1,0 +1,22 @@
+[
+  { "id": "P001", "name": "Potion", "cost": 20 },
+  { "id": "P002", "name": "Poké Ball", "cost": 10 },
+  { "id": "P003", "name": "Rare Candy", "cost": 15 },
+  { "id": "P004", "name": "Super Potion", "cost": 50 },
+  { "id": "P005", "name": "Ultra Ball", "cost": 120 },
+  { "id": "P006", "name": "Max Revive", "cost": 200 },
+  { "id": "P007", "name": "Full Restore", "cost": 300 },
+  { "id": "P008", "name": "Max Elixir", "cost": 150 },
+  { "id": "P009", "name": "Antidote", "cost": 30 },
+  { "id": "P010", "name": "Burn Heal", "cost": 30 },
+  { "id": "P011", "name": "Ice Heal", "cost": 30 },
+  { "id": "P012", "name": "Revive", "cost": 150 },
+  { "id": "P013", "name": "TM25 - Thunderbolt", "cost": 1000 },
+  { "id": "P014", "name": "Max Potion", "cost": 250 },
+  { "id": "P015", "name": "Razor Claw", "cost": 300 },
+  { "id": "P016", "name": "Rare Bone", "cost": 500 },
+  { "id": "P017", "name": "Moon Stone", "cost": 1000 },
+  { "id": "P018", "name": "Sun Stone", "cost": 1000 },
+  { "id": "P019", "name": "Master Ball", "cost": 5000 },
+  { "id": "P020", "name": "Choice Band", "cost": 300 }
+]
